@@ -1,6 +1,6 @@
 name: null
 favicon: null
-layout_spectrum: 0.24123
+layout_spectrum: 0.71053
 typography_spectrum: 0.49561
 style: taylor
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - "#0d0f0e"
-    - "#696463"
-    - "#d5d9e8"
-    - "#abb1c1"
-    - "#0064a1"
+    - '#0d0f0e'
+    - '#696463'
+    - '#d5d9e8'
+    - '#abb1c1'
+    - '#0064a1'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
