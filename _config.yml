@@ -1,8 +1,7 @@
-name: null
+name: Spaceship Earth
 favicon: null
 layout_spectrum: 0.19915
 typography_spectrum: 0.49561
-style: taylor
 cta:
   domain: null
   bucket: null
@@ -25,4 +24,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
