@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Spaceship Earth]]></title>
+        <description><![CDATA[Spaceship Earth]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 18:16:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>this is my second post</p>]]></description>
+            <link>undefined848acc52-9145-490a-9f2c-54bed53c7b13/index.html</link>
+            <guid isPermaLink="false">848acc52-9145-490a-9f2c-54bed53c7b13</guid>
+            <pubDate>Mon, 15 Feb 2016 18:16:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
